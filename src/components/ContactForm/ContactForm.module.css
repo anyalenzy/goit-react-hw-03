@@ -40,3 +40,6 @@
 .btnSubmit:hover {
   opacity: 0.8;
 }
+.errorMessage {
+  color: #dd3a3a;
+}
